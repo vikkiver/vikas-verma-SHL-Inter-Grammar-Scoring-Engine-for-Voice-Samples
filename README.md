@@ -1,1 +1,1 @@
-# vikas-verma-SHL-Inter-Grammar-Scoring-Engine-for-Voice-Samples
+# vikas-verma-SHL-Intern-Grammar-Scoring-Engine-for-Voice-Samples
